@@ -5,12 +5,13 @@
 # Dummy website
 2022-03-18
 
+<html>
 <head>  
- <title>My Page Title</title>  
- <link rel="icon" type="image/png" href="/site/notes/favicon.png">  
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
 </head>
+</html>
 
-> Bonjour William 3
+> Bonjour William 1
 
 > Some text.
 
@@ -20,3 +21,4 @@ An image :
 - A list
 	- With indentation
 
+- [[Another note|Another note]]
