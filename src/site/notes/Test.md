@@ -10,7 +10,7 @@
  <link rel="icon" type="image/x-icon" href="/site/notes/favicon.png">  
 </head>
 
-> Bonjour William
+> Bonjour William 2
 
 > Some text.
 
