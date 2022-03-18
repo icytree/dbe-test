@@ -3,6 +3,8 @@
 ---
 
 # Dummy website
+2022-03-18
+
 > Bonjour William
 
 > Some text.
