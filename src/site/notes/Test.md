@@ -7,10 +7,10 @@
 
 <head>  
  <title>My Page Title</title>  
- <link rel="icon" type="image/x-icon" href="/site/notes/favicon.png">  
+ <link rel="icon" type="image/png" href="/site/notes/favicon.png">  
 </head>
 
-> Bonjour William 2
+> Bonjour William 3
 
 > Some text.
 
