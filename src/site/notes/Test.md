@@ -3,6 +3,8 @@
 ---
 
 # Dummy website
+> Bonjour William
+
 > Some text.
 
 An image : 
@@ -10,3 +12,4 @@ An image :
 
 - A list
 	- With indentation
+
