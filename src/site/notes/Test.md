@@ -5,6 +5,11 @@
 # Dummy website
 2022-03-18
 
+<head>  
+ <title>My Page Title</title>  
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
+</head>
+
 > Bonjour William
 
 > Some text.
