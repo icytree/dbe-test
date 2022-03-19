@@ -23,4 +23,4 @@ An image :
 
 - [[A html note|A html note]]
 
-![Blah blah >](Pasted%20image%2020220318205823.png)
+![Blah blah](Pasted%20image%2020220318205823.png)
