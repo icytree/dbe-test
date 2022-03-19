@@ -13,14 +13,12 @@
 
 <body>
 
-<h1>This is a Heading</h1>
+<h1>This is a Heading1</h1>
 
 <p>This is a paragraph.</p>
 
 </body>
 	<img src="/src/site/notes/Pasted%20image%2020220318205823.png" alt="This is a test image1">
-	
 	<img src="/images/Pasted%20image%2020220318205823.png" alt="This is a test image2">
-	
 	<img src="Pasted%20image%2020220318205823.png" alt="This is a test image3">
 </html>
