@@ -20,5 +20,8 @@
 </body>
 	<img src="/src/site/notes/Pasted%20image%2020220318205823.png" alt="This is a test image1">
 	<img src="/images/Pasted%20image%2020220318205823.png" alt="This is a test image2">
-	<img src="Pasted%20image%2020220318205823.png" alt="This is a test image3">
+	<img src="Pasted image 20220318205823.png" alt="This is a test image3">
+	<img src="/src/site/notes/Pasted image 20220318205823.png" alt="This is a test image1">
+	<img src="/images/Pasted image 20220318205823.png" alt="This is a test image2">
+	<img src="Pasted image 20220318205823.png" alt="This is a test image3">
 </html>
