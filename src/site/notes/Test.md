@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/test/"}
 ---
 <html>
 <link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
