@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/"}
+{"dg-publish":true,"permalink":"/test/","tags":"gardenEntry"}
 ---
 <html>
 <link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
@@ -20,3 +20,5 @@ An image :
 	- With indentation
 
 - [[Another note|Another note]]
+
+<a href="https://road-to-dbe.netlify.app/index">Supposed to link</>
