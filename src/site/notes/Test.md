@@ -6,9 +6,7 @@
 2022-03-18
 
 <html>
-<head>  
- <link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
-</head>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
 </html>
 
 > Bonjour William 1
