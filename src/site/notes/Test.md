@@ -8,9 +8,6 @@
 # Dummy website1
 2022-03-18
 
-> [!INFO] Wow ?
-> Works ?
-
 ```ad-info
 jdsakjdsl djlsakdj lsk
 ```
