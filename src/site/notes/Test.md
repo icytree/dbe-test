@@ -21,4 +21,4 @@ An image :
 
 - [[Another note|Another note]]
 
-<a href="https://road-to-dbe.netlify.app/a_html_note.html/">Supposed to link </a>
+- [[A html note|A html note]]
