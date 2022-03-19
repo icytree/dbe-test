@@ -1,13 +1,13 @@
 ---
 {"dg-publish":true,"permalink":"/test/","tags":"gardenEntry"}
 ---
+<html>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
+</html>
 
 # Dummy website
 2022-03-18
 
-<html>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">  
-</html>
 
 > Bonjour William 1
 
