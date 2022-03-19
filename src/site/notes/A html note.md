@@ -18,5 +18,5 @@
 <p>This is a paragraph.</p>
 
 </body>
-	<img src="Pasted%20image%2020220318205823.png" alt="This is a test image">
+	<img src="/src/site/notes/Pasted%20image%2020220318205823.png" alt="This is a test image">
 </html>
