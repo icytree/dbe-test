@@ -24,7 +24,7 @@ An image :
 - A list
 	- With indentation
 
-- [[Another note 🍄|Another note 🍄]] 123
+- [[Another note|Another note 🍄]] 123
 
 - [[A html note|A html note]]
 
