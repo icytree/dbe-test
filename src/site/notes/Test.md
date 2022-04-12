@@ -12,8 +12,6 @@
 jdsakjdsl djlsakdj lsk
 ```
 
-> Bonjour William 1
-
 > Some text.
 
 - ![[Excalidraw/Drawing 2022-03-21 20.20.05.excalidraw|Drawing 2022-03-21 20.20.05.excalidraw]]
