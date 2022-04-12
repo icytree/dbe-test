@@ -8,6 +8,9 @@
 # Dummy website12
 2022-03-18
 
+>[!INFO]
+>A Callout
+
 ```ad-info
 jdsakjdsl djlsakdj lsk
 ```
